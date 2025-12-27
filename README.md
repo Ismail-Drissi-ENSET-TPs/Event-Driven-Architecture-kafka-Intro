@@ -9,7 +9,7 @@ This project introduces **Apache Kafka** through three main parts:
 
 ---
 
-## Message Brokers (Brief Explanation)
+## Message Brokers
 
 A **message broker** is a system that allows applications to exchange data through messages instead of direct connections.
 Producers send messages to the broker, and consumers read messages from it. This decouples applications and allows them to scale independently.
@@ -142,4 +142,5 @@ This part focuses on application-level integration.
     * Uses an exposed endpoint
 
 ![](./screenshots/analytics-diagram.png)
+
 
